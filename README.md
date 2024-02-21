@@ -10,6 +10,9 @@ Este é mais um projeto que foi realizado durante o evento Flutter Expirience, o
 
 Neste projeto foi usado a arquitetura mvvm(Model view Model), a mesma dos outros projetos. Com os principais pacote flutter_getit para injeção de dependências, e signals para gerência de estado.
 
+pacote cirado durante evento para núcleo de funcionamento
+- [Lab Clinicas Core](https://github.com/emanuelxenos/lab_clinicas_core)
+
 ## Captura de telas do projeto
 
 <div>
